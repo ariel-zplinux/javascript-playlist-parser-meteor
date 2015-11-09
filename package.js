@@ -1,5 +1,5 @@
 Package.describe({
-	name: 'javascript-playlist-parser',
+	name: 'noshir:javascript-playlist-parser',
 	version: '0.0.1',
 	summary: 'Parse m3u, m3u extended, pls, and asx in JavaScript.',
 	git: 'https://github.com/ariel-zplinux/javascript-playlist-parser-meteor',
